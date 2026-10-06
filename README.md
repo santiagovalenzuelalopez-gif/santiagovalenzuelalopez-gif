@@ -4,7 +4,7 @@
 
 Diseño servicios en la nube que se pueden **operar, auditar y explicar**: IA generativa con RAG, plataformas sobre Cloud Run y gobernanza como código.
 
-[**Portafolio**](https://santiagovalenzuelalopez-gif.github.io) · [LinkedIn](https://www.linkedin.com/in/santiagovalenzuelal/) · [Correo](mailto:santiagovlopez20@hotmail.com)
+[**Portafolio**](https://santiagovalenzuelalopez-gif.github.io) · [LinkedIn](https://www.linkedin.com/in/santiagovalenzuelal/) · [Contacto](https://santiagovalenzuelalopez-gif.github.io/#contacto)
 
 ---
 
